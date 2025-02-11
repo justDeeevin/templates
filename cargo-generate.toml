@@ -1,0 +1,3 @@
+[template]
+sub_folders = ["rust/bin", "rust/lib"]
+ignore = [".direnv"]
